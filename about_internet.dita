@@ -4,7 +4,7 @@
     <title>インターネットとは</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>これ<?oxy_comment_start author="0000107069" timestamp="20190523T142235+0900" comment="は"?>が<?oxy_comment_end?>インターネットです。</p>
+        <p>これ<?oxy_comment_start author="0000107069" timestamp="20190523T142235+0900" comment="は" id="tft_rmn_vhb"?><?oxy_comment_start author="0000107069" timestamp="20190523T142700+0900" comment="OK!" parentID="tft_rmn_vhb" mid="1"?>が<?oxy_comment_end mid="1"?><?oxy_comment_end?>インターネットです。</p>
         <image href="image/800px-Oxygen480-categories-applications-internet.svg.png"
             id="image_xlv_ykn_vhb" width="300"/>
     </conbody>

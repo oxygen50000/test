@@ -15,6 +15,9 @@
             <step>
                 <cmd>どうします</cmd>
             </step>
+            <step>
+                <cmd><?oxy_comment_start author="0000107069" timestamp="20190523T142804+0900" comment="追加しました。"?>楽しみます<?oxy_comment_end?></cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
