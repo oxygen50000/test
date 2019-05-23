@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="connect_internet">
+    <title>インターネットのつなぎかた</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>こうやってインターネットにつなぎます。<p/></context>
+        <steps>
+            <step>
+                <cmd>こうします</cmd>
+            </step>
+            <step>
+                <cmd>ああします</cmd>
+            </step>
+            <step>
+                <cmd>どうします</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
