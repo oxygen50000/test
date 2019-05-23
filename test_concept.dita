@@ -4,6 +4,7 @@
     <title>コンセプトサンプル</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p><?oxy_comment_start author="0000107069" timestamp="20190523T124318+0900" comment="だめです"?><?oxy_comment_start author="0000107069" timestamp="20190523T125027+0900" comment="いやでめです。" mid="1"?><?oxy_comment_start author="0000107069" timestamp="20190523T124505+0900" comment="OKです" mid="2"?>コンセプトサンプルです。<?oxy_comment_end?><?oxy_comment_end mid="1"?><?oxy_comment_end mid="2"?></p>
+        <p><?oxy_comment_start author="0000107069" timestamp="20190523T124318+0900" comment="だめです"?><?oxy_comment_start author="0000107069" timestamp="20190523T124505+0900" comment="OKです" mid="1"?><?oxy_comment_start author="0000107069" timestamp="20190523T125027+0900" comment="いやでめです。" mid="2"?>コンセプトサンプル<?oxy_insert_start author="0300001031" timestamp="20190523T165219+0900"?>になります。<?oxy_insert_end?><?oxy_delete author="0300001031" timestamp="20190523T165213+0900" content="です。"?><?oxy_comment_end?><?oxy_comment_end mid="1"?><?oxy_comment_end mid="2"?></p>
     </conbody>
 </concept>
+<?oxy_options track_changes="on"?>
