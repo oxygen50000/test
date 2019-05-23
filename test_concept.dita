@@ -4,6 +4,6 @@
     <title>コンセプトサンプル</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p><?oxy_comment_start author="0000107069" timestamp="20190523T124318+0900" comment="だめです"?>コンセプトサンプルです。<?oxy_comment_end?></p>
+        <p><?oxy_comment_start author="0000107069" timestamp="20190523T124318+0900" comment="だめです"?><?oxy_comment_start author="0000107069" timestamp="20190523T124505+0900" comment="OKです" mid="1"?>コンセプトサンプルです。<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
     </conbody>
 </concept>
