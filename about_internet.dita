@@ -4,7 +4,7 @@
     <title>インターネットとは</title>
     <shortdesc></shortdesc>
     <conbody>
-        <p>これがインターネットです。</p>
+        <p>これ<?oxy_comment_start author="0000107069" timestamp="20190523T142235+0900" comment="は"?>が<?oxy_comment_end?>インターネットです。</p>
         <image href="image/800px-Oxygen480-categories-applications-internet.svg.png"
             id="image_xlv_ykn_vhb" width="300"/>
     </conbody>
