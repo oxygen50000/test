@@ -10,7 +10,7 @@
                 <cmd>切るを押します</cmd>
             </step>
             <step>
-                <cmd>電源を切ります</cmd>
+                <cmd>電源を切ります</cmd> 
             </step>
             <step>
                 <cmd>コンセントから抜きます。</cmd>

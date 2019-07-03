@@ -4,7 +4,7 @@
     <title>設定一覧</title>
     <shortdesc></shortdesc>
     <refbody>
-        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_wvp_pln_vhb">
+        <simpletable frame="all" relcolwidth="1* 1*" id="si mpletable_wvp_pln_vhb">
             <sthead>
                 <stentry>項目</stentry>
                 <stentry>アイコン</stentry>
